@@ -5,7 +5,7 @@ import markdown
 import markdown.extensions.fenced_code
 import markdown.extensions.codehilite
 
-openai.api_key = '<YOUR_API_KEY'
+openai.api_key = '<YOUR_API_KEY>'
 
 
 app = Flask(__name__)
